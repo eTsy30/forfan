@@ -9,9 +9,9 @@ function App() {
     <>
       <h1> Похуинатор</h1>
       <div className="container">
-        <SoundButton soundFile="/sound/first.ogg" title={'Пошел'} icon={''} />
-        <SoundButton soundFile="/sound/two.ogg" title={'Пошел-v2'} icon={''} />
-        <SoundButton soundFile="/sound/tree.ogg" title={'Бобр'} icon={''} />
+        <SoundButton soundFile="/sound/first.wav" title={'Пошел'} icon={''} />
+        <SoundButton soundFile="/sound/two.wav" title={'Пошел-v2'} icon={''} />
+        <SoundButton soundFile="/sound/tree.wav" title={'Бобр'} icon={''} />
       </div>
     </>
   )
